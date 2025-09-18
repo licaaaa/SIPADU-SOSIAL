@@ -1,2 +1,2 @@
 # SIPADU-SOSIAL
-S
+Sistem Register Pelayanan dan Pengaduan Publik
